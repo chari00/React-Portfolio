@@ -14,7 +14,12 @@
 ## Description
 This Portfolio App was created mainly with React.js framework.
 ## Installation 
-The software package needed to install are [React](https://docs.npmjs.com/cli/v9/configuring-npm/package-json), and [Bootstrap](https://www.npmjs.com/package/inquirer). In the command line type `npm init -y` to install `package.json` and  `npm i inquirer` to install inquirer.js.
+
+1. The software package needed to install are [React](https://reactjs.org/docs/getting-started.html), and [Bootstrap](https://react-bootstrap.github.io/getting-started/introduction/).
+2. In the command line type `npx create-react-app my-app` to install `*React*` 
+3. After react installation, open the README.md file to find the details start the program.
+4. And   `npm install bootstrap` to install `*Bootstrap*`.
+5. Then add `import 'bootstrap/dist/css/bootstrap.min.css';` to the `index.js` file.
 
 ## Visual
 ####
