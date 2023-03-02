@@ -1,13 +1,15 @@
-import logo from './logo.svg';
-import './App.css';
+// import logo from './logo.svg';
+import "./App.css";
+import { Routes } from "react-router-dom";
 
 function App() {
-  return     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-      </header>
-    </div>
-  ;
+  return (
+    <>
+      <Routes>
+        <hi> this is some initial text .......!!!</hi>
+      </Routes>
+    </>
+  );
 }
 
 export default App;
