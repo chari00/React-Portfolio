@@ -56,5 +56,7 @@ This project is covered by _MIT_.
 ## Questions
 
 For questions and comments please contact the following details:
+
 E-mail: macharitocruzuk@gmail.com
+
 GitHub user Id: https://github.com/chari00
