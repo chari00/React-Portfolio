@@ -38,7 +38,16 @@ This Portfolio App was created mainly with React.js framework.
 
 ## Resources
 
--
+- https://www.npmjs.com/package/react-router-dom 
+
+- https://www.npmjs.com/package/react-bootstrap 
+
+- https://www.npmjs.com/package/react-css-loaders 
+
+- https://www.npmjs.com/package/@fortawesome/free-solid-svg-icons 
+
+- https://www.browserstack.com/guide/how-to-implement-mobile-first-design 
+
 
 ## License
 
