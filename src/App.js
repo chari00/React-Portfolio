@@ -1,15 +1,17 @@
-// import logo from './logo.svg';
-import "./App.css";
-import { Routes } from "react-router-dom";
 
-function App() {
+
+
+import "./App.css";
+// import { Routes } from "react-router-dom";
+
+export default function App() {
   return (
     <>
-      <Routes>
-        <hi> this is some initial text .......!!!</hi>
-      </Routes>
+      {/* <Routes> */}
+        <h1> this is some initial text .......!!!</h1>
+      {/* </Routes> */}
     </>
   );
 }
 
-export default App;
+ 
